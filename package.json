@@ -24,7 +24,12 @@
     "styled-system": "^4.0.5"
   },
   "devDependencies": {
+    "@types/rebass": "^3.0.3",
+    "@types/styled-components": "^4.1.12",
+    "@types/styled-system": "^3.2.2",
+    "gatsby-plugin-react-svg": "^2.1.0",
     "gatsby-plugin-typescript": "^2.0.11",
+    "gatsby-transformer-remark": "^2.3.4",
     "gh-pages": "^2.0.1",
     "prettier": "^1.16.4"
   },
